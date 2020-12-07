@@ -1,6 +1,5 @@
 > Note Binary search works on only sorted integers.
 
-"""
 Example:
 
 data =  [1,3,5,6,7,8,9,12,14,23,32,56,75]
@@ -12,7 +11,6 @@ target = 100
 output = 75
 75 is the closest number to the 100
 
-"""
 
 
 ```python
