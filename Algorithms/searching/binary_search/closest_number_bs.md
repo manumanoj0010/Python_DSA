@@ -1,4 +1,4 @@
-> Note Binary search works on only sorted integers.
+> Note Binary search works only on sorted integers.
 
 Example:
 
