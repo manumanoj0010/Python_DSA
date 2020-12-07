@@ -1,6 +1,6 @@
 
 
-###Algorithms
+<h1>Algorithms</h1>
 
 ------------
 
@@ -11,6 +11,6 @@
 
 
 
-###Data Structures
+<h1>Data Structures</h1>
 
 ------------
