@@ -1,1 +1,16 @@
-# Python_DSA
+
+
+###Algorithms
+
+------------
+
++ Searching
+    + Binary Search
+
+
+
+
+
+###Data Structures
+
+------------
