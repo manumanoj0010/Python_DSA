@@ -2,7 +2,7 @@
 
 Example:
 
-data =  [1,3,5,6,7,8,9,12,14,23,32,56,75]
+data =  [1,3,5,6,7,8,9,12,14,23,32,56,75]<br>
 target = 10
 output = 9
 9 is the closest number to the 10
