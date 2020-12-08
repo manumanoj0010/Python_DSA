@@ -5,6 +5,7 @@
 
 + Searching
     + Binary Search
+    + closest number using binary search
 
 
 
