@@ -5,3 +5,7 @@
 
 <h3>Sorting</h3>
 - [Selection Sort](Algorithms/sorting/selection_sort.md)
+
+<h1>Data Structures</h1>
+<h3>Linked List</h3>
+- [Single Linked List](Data_structures/Linked_List/Linked_List.md)
