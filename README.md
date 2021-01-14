@@ -7,9 +7,13 @@
     + Binary Search
     + closest number using binary search
 
-
++ Sorting
+    + Selection Sort
 
 
 
 <h1>Data Structures</h1>
+
++ Linked List
+    + Single Linked List
 
