@@ -4,7 +4,9 @@
 - [Closest Number using Binary Search](Algorithms/searching/binary_search/closest_number_bs.md)
 
 <h3>Sorting</h3>
+- [Bubble Sort](Algorithms/sorting/bubble_sort.md)
 - [Selection Sort](Algorithms/sorting/selection_sort.md)
+
 
 <h1>Data Structures</h1>
 <h3>Linked List</h3>
