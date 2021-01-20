@@ -9,6 +9,7 @@
 
 + Sorting
     + Selection Sort
+    + Bubble Sort
 
 
 
